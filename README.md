@@ -1,1 +1,1 @@
-# Code-Alpha-Task2
+Chatbot for FAQs
